@@ -1,0 +1,33 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "titulo": "Porshe Panamera",
+      "descricao": "O Panamera é um automóvel de luxo sedã de 4 portas[1][2] de porte grande lançado pela Porsche em 2009. Tem motorização dianteira V6 e V8 feitos em Stuttgart, a carroçaria é fornecida já pintada pela fábrica da Volkswagen localizada em Hanôver, e a montagem final ocorre em Leipzig.",
+      "img": "https://conteudo.imguol.com.br/c/entretenimento/e2/2022/01/12/porsche-panamera-turbo-s-e-hybrid-1642027483545_v2_4x3.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Lambourguini Urus",
+      "descricao": "O Lamborghini Urus é um fenômeno global. Em 2021, a fabricante italiana teve o melhor desempenho de sua história com 8.405 vendas e o SUV foi o líder disparado. Foram 5.021 emplacamentos, quase o dobro do Huracán, o segundo colocado. Agora, na linha 2023, chega ao mercado a versão mais extrema do utilitário: o Urus Performante.",
+      "img": "https://cdn.motor1.com/images/mgl/W888J6/s3/new-lamborghini-urus-spy-shots.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Gol 2023",
+      "descricao": "O Volkswagen Gol 2023 já pode ser configurado no site comercial da marca. Ele é vendido em versão única de acabamento pelo preço sugerido de R$ 74.150. O motor 1.0 foi atualizado para atender o Proconve L7 ficando ligeiramente mais potente com gasolina."
+    },
+    {
+      "id": 4,
+      "titulo": "Maserati MC20",
+      "descricao": "The Maserati MC20 (Maserati Corse 2020, internal code M240)[3] is a two-seater, mid-engined sports car produced by Italian car manufacturer Maserati. MC20 was originally scheduled to debut in May 2020.[4] Maserati announced a racing variant to be also offered.[5] The Maserati Innovation Lab was responsible for the development of the new car and an electric option will also be produced.[6] Maserati is also testing a fully electric powertrain.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Maserati_MC20_Milano_1.jpg/560px-Maserati_MC20_Milano_1.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Ferrari Enzo",
+      "descricao": "Enzo é um supercarro de tração traseira e motor central-traseiro produzido pela Ferrari, fabricante italiana de automóveis. Recebeu o nome do criador da companhia, Enzo Anselmo Ferrari.[2] O automóvel é popularmente chamado apenas de 'Ferrari Enzo', mesmo este não sendo o nome oficial do modelo. O carro foi desenvolvido em 2002 com tecnologias usadas na Fórmula 1, como a carroceria feita inteiramente em fibra de carbono, a transmissão eletro-hidráulica, freios a disco com carbeto de silício reforçados com fibra de carbono (C/SiC) e um sistema de aerodinâmica ativo que levanta um pequeno spoiler em alta velocidade, criando downforce para maior aderência.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/600px-Orange_Enzo_Ferrari_%287191948164%29.jpg"
+    }
+  ]
+}

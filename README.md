@@ -15,5 +15,5 @@
 </ul>
 
 <h2>Para dar início ao projeto, primeiro tenha o <a href="https://nodejs.org/en/" target="_blank">Node.js</a> instalado</h2>
-<p>Em seguida dê início ao projeto com o comando: <em>npm install</em></p>
+<p>Em seguida dê início ao projeto pelo VS Code, abra o Terminal e digite o comando: <em>npm install</em></p>
 <p>Então dê início ao projeto usando <em>npm start</em> e aproveite bastante!</p>
